@@ -435,7 +435,7 @@
 		]
 	},
 	"MonoBehaviour OnControllerColliderHit": {
-		"prefix": "OnControllerColliderHit()",
+		"prefix": "OnControllerColliderHit(ControllerColliderHit)",
 		"description": "OnControllerColliderHit is called when the controller hits a collider while performing a Move.",
 		"body": [
 			"/// <summary>",
